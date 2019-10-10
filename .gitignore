@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# aws iot
+.pem
+.key
+.celerybeat
+.schedule.zip
